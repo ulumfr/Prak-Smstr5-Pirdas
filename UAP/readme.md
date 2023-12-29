@@ -1,11 +1,11 @@
 # Automatic Irrigation System
-Automatic Irrigation System sebuah proyek yang menggunakan sensor kelembaban tanah tipe resistif untuk secara otomatis mengendalikan penyiraman tanaman. Sistem ini didesain untuk mendeteksi tingkat kelembaban tanah dan secara otomatis mengaktifkan atau menonaktifkan pompa penyiraman sesuai dengan kebutuhan tanaman
+Automatic Irrigation System is a project that utilizes resistive soil moisture sensors to automatically control plant watering. This system is designed to detect the soil moisture level and automatically activate or deactivate the irrigation pump according to the plant's needs
 
-## Komponen
+## Components
 * ESP 32
 * Resistive Soil Moisture Sensor
 * 12V Adaptor
-* Jack DC female
+* Jack DC Female
 * DC Water Pump 12V
 * Selang
 * Module Relay
@@ -13,8 +13,10 @@ Automatic Irrigation System sebuah proyek yang menggunakan sensor kelembaban tan
 * Kabel Jumper
 * Kabel listrik
 
-
-## Tampilan Website dan Link PPT
+## Display
 ![Display](images/Display.png)
+[PPT](https://docs.google.com/presentation/d/1FEWCX5VWh3USXU9SrFf0DkupoPaOWDH2M6gjNx1o2Kg)
 
-[Link PPT](https://docs.google.com/presentation/d/1FEWCX5VWh3USXU9SrFf0DkupoPaOWDH2M6gjNx1o2Kg)
+## Members
+- 202110370311462 - [Bahrul Ulum Fadhlur Rohman](https://github.com/ulumfr)
+- 202110370311481 - [Muhammad Gus Nadir](https://github.com/mgusnadir)
